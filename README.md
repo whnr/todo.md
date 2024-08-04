@@ -23,11 +23,6 @@ The main change is the introduction of hierarchy through indentation.
 This fact is breaking the ability to easily sort the file in a text editor.
 Also most standard `todo.txt` apps and clients will struggle with the indentation.
 
-### Another philosophy
-
-FIXME don't really need project tags anymore!
-But you can fold now
-
 
 ## The 3 axes of an effective todo list
 
